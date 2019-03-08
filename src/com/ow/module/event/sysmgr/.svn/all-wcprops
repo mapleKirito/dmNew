@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/linktones/!svn/ver/565/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr
+END
+UserRoleMapEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/565/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/UserRoleMapEvent.java
+END
+OrgModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/OrgModifyEvent.java
+END
+ResourceMoreFileDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/ResourceMoreFileDownload.java
+END
+UserCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/UserCreateEvent.java
+END
+PasswordModifyByAdministratorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/PasswordModifyByAdministratorEvent.java
+END
+OrgTreeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/OrgTreeEvent.java
+END
+UserRetrievePasswordEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/UserRetrievePasswordEvent.java
+END
+OrgSelectTreeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/OrgSelectTreeEvent.java
+END
+RolePermissionMapEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/RolePermissionMapEvent.java
+END
+ResourceDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/ResourceDeleteEvent.java
+END
+OrgDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/OrgDeleteEvent.java
+END
+PasswordModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/PasswordModifyEvent.java
+END
+OrgCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/OrgCreateEvent.java
+END
+UserRetrieveQuestionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/UserRetrieveQuestionEvent.java
+END
+ResourceFileDownload.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/ResourceFileDownload.java
+END
+ActModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/ActModifyEvent.java
+END
+SelectNameEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/SelectNameEvent.java
+END
+UserRegisterEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linktones/!svn/ver/467/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/UserRegisterEvent.java
+END
+ResourceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/ResourceUtil.java
+END
+ParamInsertEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/ParamInsertEvent.java
+END
+SelectTopMenuAjaxList.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/SelectTopMenuAjaxList.java
+END
+UserModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/UserModifyEvent.java
+END
+SerialNumberSelectOneEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/SerialNumberSelectOneEvent.java
+END
+ResourceMoreFileZip.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/ResourceMoreFileZip.java
+END
+ActCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/ActCreateEvent.java
+END

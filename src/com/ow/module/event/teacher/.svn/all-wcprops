@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/linktones/!svn/ver/565/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher
+END
+TaskManagerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/TaskManagerEvent.java
+END
+MyUnApplyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/MyUnApplyEvent.java
+END
+FavoriteTreeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/FavoriteTreeEvent.java
+END
+ClassManagerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/ClassManagerEvent.java
+END
+MyUnApplyWorkEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/MyUnApplyWorkEvent.java
+END
+ObservationResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/ObservationResourceEvent.java
+END
+SelectListPageLovelyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListPageLovelyEvent.java
+END
+ExhibitResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/ExhibitResourceEvent.java
+END
+UnFinshedTaskUserEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/UnFinshedTaskUserEvent.java
+END
+TeamsListEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/TeamsListEvent.java
+END
+UpdateTaskEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/UpdateTaskEvent.java
+END
+SelectListPageProjectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListPageProjectionEvent.java
+END
+MoveEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/MoveEvent.java
+END
+SpaceInfoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SpaceInfoEvent.java
+END
+AlertEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/AlertEvent.java
+END
+SelectListPageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/565/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListPageEvent.java
+END
+SelectListPageEventOffset.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListPageEventOffset.java
+END
+SelectArticleListEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectArticleListEvent.java
+END
+UpdateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/UpdateEvent.java
+END
+SelectOrgListEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectOrgListEvent.java
+END
+ApplyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/ApplyEvent.java
+END
+LaboratoryResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/LaboratoryResourceEvent.java
+END
+SelectResPageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectResPageEvent.java
+END
+FavoriteModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/FavoriteModifyEvent.java
+END
+SelectListPage2Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListPage2Event.java
+END
+UploadResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/UploadResourceEvent.java
+END
+FavoriteSelectTreeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/FavoriteSelectTreeEvent.java
+END
+MyInfoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/MyInfoEvent.java
+END
+FavoriteDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/FavoriteDeleteEvent.java
+END
+DeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/DeleteEvent.java
+END
+FavoriteCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/FavoriteCreateEvent.java
+END
+UnFinshedTaskEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/UnFinshedTaskEvent.java
+END
+SelectListPageLaboratoryEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListPageLaboratoryEvent.java
+END
+SelectPicListEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectPicListEvent.java
+END
+SelectListEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListEvent.java
+END
+FavoriteInitModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/FavoriteInitModifyEvent.java
+END
+AlertStudentEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/AlertStudentEvent.java
+END
+MoveResEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/MoveResEvent.java
+END
+LovelyResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/LovelyResourceEvent.java
+END
+TeacherModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/TeacherModifyEvent.java
+END
+SelectListPageObservationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListPageObservationEvent.java
+END
+ProjectionResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/ProjectionResourceEvent.java
+END
+SelectListPageExhibitEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectListPageExhibitEvent.java
+END
+ExpandResourceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/ExpandResourceEvent.java
+END
+InsertTaskEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/InsertTaskEvent.java
+END
+SelectResEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/SelectResEvent.java
+END
+UserResLike.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/teacher/UserResLike.java
+END

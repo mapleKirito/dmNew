@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util
+END
+CreateRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/CreateRandom.java
+END
+JsonHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/JsonHelper.java
+END
+ScreenshotUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ScreenshotUtil.java
+END
+ToHDMp4Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ToHDMp4Util.java
+END
+TxtHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/TxtHandler.java
+END
+SmtpAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/SmtpAuthenticator.java
+END
+ToPicReferenceUtil3.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ToPicReferenceUtil3.java
+END
+FileHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/FileHelper.java
+END
+ToLDMp4Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ToLDMp4Util.java
+END
+GetProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/GetProperty.java
+END
+Encrypt.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/Encrypt.java
+END
+ContractNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ContractNumber.java
+END
+ToFlvUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ToFlvUtil.java
+END
+SendMail.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/SendMail.java
+END
+ExcelHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ExcelHandler.java
+END
+PageToolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/PageToolbar.java
+END
+ZipUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ZipUtil.java
+END
+DeCompressUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/DeCompressUtil.java
+END
+AbstractFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/AbstractFile.java
+END
+EncodeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/EncodeFilter.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/StringUtil.java
+END
+ConverterToChar.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ConverterToChar.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/DateUtil.java
+END
+ToPicUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ToPicUtil.java
+END
+ToPicReferenceUtil2.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ToPicReferenceUtil2.java
+END
+ToPicReferenceUtil4.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ToPicReferenceUtil4.java
+END
+DBUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/DBUtil.java
+END
+KeyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/KeyHelper.java
+END
+CompressionPictureSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/CompressionPictureSize.java
+END
+ToPicReferenceUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/ToPicReferenceUtil.java
+END
+SplitHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/SplitHelper.java
+END
+IntegerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/util/IntegerUtil.java
+END

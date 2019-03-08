@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linktones/!svn/ver/460/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/write
+END
+WriteCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/write/WriteCreateEvent.java
+END
+WriteDelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/write/WriteDelEvent.java
+END
+WriteEditEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/write/WriteEditEvent.java
+END
+WriteInitEditEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/write/WriteInitEditEvent.java
+END
+WriteReadEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/write/WriteReadEvent.java
+END
+SpaceReadEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/460/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/write/SpaceReadEvent.java
+END

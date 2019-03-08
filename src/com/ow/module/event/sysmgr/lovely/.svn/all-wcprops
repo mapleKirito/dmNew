@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/lovely
+END
+LovelyCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/lovely/LovelyCreateEvent.java
+END
+LovelyModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/lovely/LovelyModifyEvent.java
+END
+LovelyViewDetailEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/lovely/LovelyViewDetailEvent.java
+END
+LovelyViewDetailReferEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/lovely/LovelyViewDetailReferEvent.java
+END

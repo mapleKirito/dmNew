@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/config
+END
+server-sql-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/config/server-sql-config.properties
+END
+framework.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/config/framework.properties
+END
+orm-params.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/config/orm-params.properties
+END
+orm-version.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/config/orm-version.properties
+END

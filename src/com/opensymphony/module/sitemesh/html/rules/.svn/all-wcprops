@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules
+END
+MSOfficeDocumentPropertiesRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/MSOfficeDocumentPropertiesRule.java
+END
+TagReplaceRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/TagReplaceRule.java
+END
+BodyTagRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/BodyTagRule.java
+END
+ParameterExtractingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/ParameterExtractingRule.java
+END
+HeadExtractingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/HeadExtractingRule.java
+END
+TitleExtractingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/TitleExtractingRule.java
+END
+HtmlAttributesRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/HtmlAttributesRule.java
+END
+PageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/PageBuilder.java
+END
+RegexReplacementTextFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/RegexReplacementTextFilter.java
+END
+ContentBlockExtractingRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/ContentBlockExtractingRule.java
+END
+MetaTagRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/MetaTagRule.java
+END
+FramesetRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/opensymphony/module/sitemesh/html/rules/FramesetRule.java
+END

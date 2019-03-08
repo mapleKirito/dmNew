@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linktones/!svn/ver/601/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql
+END
+RES_ProjectionRoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_ProjectionRoom.xml
+END
+RES_ExpandRoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_ExpandRoom.xml
+END
+SYS_SerialNumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_SerialNumber.xml
+END
+SYS_Permission.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Permission.xml
+END
+SYS_User_Info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_User_Info.xml
+END
+RES_Favorite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_Favorite.xml
+END
+BSMS_CateScience.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/BSMS_CateScience.xml
+END
+SYS_Role.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Role.xml
+END
+SYS_Review.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Review.xml
+END
+SYS_OperateLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_OperateLog.xml
+END
+SYS_History.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/560/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_History.xml
+END
+SYS_TestInfoCount.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_TestInfoCount.xml
+END
+SYS_Organization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Organization.xml
+END
+SYS_MyGallery.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_MyGallery.xml
+END
+SYS_Dictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Dictionary.xml
+END
+SYS_UserRoleMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_UserRoleMapper.xml
+END
+HIS_TASK.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/548/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/HIS_TASK.xml
+END
+SYS_UserOrganizationMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_UserOrganizationMapper.xml
+END
+Space_info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/Space_info.xml
+END
+RES_ExhibitionRoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_ExhibitionRoom.xml
+END
+RES_Refersouce.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_Refersouce.xml
+END
+SYS_User.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/565/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_User.xml
+END
+RES_GradeRelationship.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_GradeRelationship.xml
+END
+RES_Recommen.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_Recommen.xml
+END
+SYS_TestPaperInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_TestPaperInfo.xml
+END
+SYS_Article.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/570/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Article.xml
+END
+SYS_News_Bigclass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_News_Bigclass.xml
+END
+BSMS_FavoriteResMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/BSMS_FavoriteResMapper.xml
+END
+STD_TaskInfoScore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/STD_TaskInfoScore.xml
+END
+SYS_Team.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/428/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Team.xml
+END
+RES_LaboratoryRoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_LaboratoryRoom.xml
+END
+HIS_TASKAnswer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/HIS_TASKAnswer.xml
+END
+RES_Relate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_Relate.xml
+END
+SYS_Team_User_Mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Team_User_Mapper.xml
+END
+STD_TaskInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/STD_TaskInfo.xml
+END
+SYS_TestInfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_TestInfo.xml
+END
+HIS_TaskAnswerMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/HIS_TaskAnswerMapper.xml
+END
+SYS_Param.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Param.xml
+END
+SYS_Settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Settings.xml
+END
+RES_LovecountryRoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_LovecountryRoom.xml
+END
+RES_Table.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_Table.xml
+END
+RES_Resource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_Resource.xml
+END
+RES_ObservationRoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/linktones/!svn/ver/601/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_ObservationRoom.xml
+END
+BSMS_Category.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/554/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/BSMS_Category.xml
+END
+Task_Finshed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/Task_Finshed.xml
+END
+User_Attention.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/User_Attention.xml
+END
+SYS_DictionaryType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_DictionaryType.xml
+END
+RES_TaskOrganizationMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_TaskOrganizationMapper.xml
+END
+SYS_Area.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_Area.xml
+END
+SYS_News_News.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_News_News.xml
+END
+SYS_AreaDistrir.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_AreaDistrir.xml
+END
+STD_UserTaskAlertMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/STD_UserTaskAlertMapper.xml
+END
+STD_Task.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/STD_Task.xml
+END
+SYS_RolePermissionMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/SYS_RolePermissionMapper.xml
+END
+RES_Relate_About.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mysql/RES_Relate_About.xml
+END

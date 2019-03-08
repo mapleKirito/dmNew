@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linktones/!svn/ver/481/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/exhibition
+END
+ExhibitionUploadHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/exhibition/ExhibitionUploadHelp.java
+END
+ExhibitionAjaxList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/exhibition/ExhibitionAjaxList.java
+END
+ExhibitionViewDetailEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/linktones/!svn/ver/481/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/exhibition/ExhibitionViewDetailEvent.java
+END
+ExhibitionCreateQrcodeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/exhibition/ExhibitionCreateQrcodeEvent.java
+END
+ExhibitionCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/exhibition/ExhibitionCreateEvent.java
+END
+ExhibitionViewDetailEventSmall.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/exhibition/ExhibitionViewDetailEventSmall.java
+END
+ExhibitionModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/exhibition/ExhibitionModifyEvent.java
+END

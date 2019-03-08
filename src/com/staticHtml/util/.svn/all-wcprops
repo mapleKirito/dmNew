@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util
+END
+InitStaticHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/InitStaticHtml.java
+END
+ToHtmlByOpenOffice.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/ToHtmlByOpenOffice.java
+END
+FileNameSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/FileNameSelector.java
+END
+ToStaticHtmlEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/ToStaticHtmlEvent.java
+END
+MakeHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/MakeHtml.java
+END
+GetProjectPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/GetProjectPath.java
+END
+To_Html.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/To_Html.java
+END
+MatrixToImageWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/MatrixToImageWriter.java
+END
+StaticTableFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/StaticTableFactory.java
+END
+Worker.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/Worker.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/FileUtil.java
+END
+QRcode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/staticHtml/util/QRcode.java
+END

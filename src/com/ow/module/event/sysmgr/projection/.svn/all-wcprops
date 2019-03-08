@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/projection
+END
+ProjectionCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/projection/ProjectionCreateEvent.java
+END
+ProjectionModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/projection/ProjectionModifyEvent.java
+END
+ProjectionViewDetailEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/linktones/!svn/ver/557/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/projection/ProjectionViewDetailEvent.java
+END

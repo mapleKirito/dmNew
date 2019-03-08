@@ -1,0 +1,19 @@
+@charset "utf-8";
+.list-table .lt-title {height: 39px;line-height: 39px;border: 1px solid #CFBDA7;text-indent: 20px;color: #000;text-align: left;background: url(../images-ce/listtop.png) center no-repeat;}
+.list-table {width: 100%;}
+table {border-color: #CFBDA7}
+.list-table .lt-command a {width: auto}
+.list-table .lt-command {background: none;text-align: left;}
+.list-table tbody tr {background: none;}
+.list-table .lt-command a {font-size: 14px;color: white;background: #C0964D;}
+.list-table tbody tr:hover {background: none;}
+.list-table tbody tr{background: none;border-bottom: 1px solid #F1EADE;}
+.list-table tbody tr:nth-child(2n) {background: none;}
+.list-table thead {background: #E8DDD0;}
+.gridTable {background-color: #F8F4ED;}
+a.lt-button.del{background-color: none;}
+a.pagea{color: #636363;}
+.gridTable tr td, .gridTable tr th {font-size: 16px;color: #333333;}
+.list-table .ltselect.lt-private {
+  background-color:none;
+}

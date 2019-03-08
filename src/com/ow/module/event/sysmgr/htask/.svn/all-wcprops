@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linktones/!svn/ver/416/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask
+END
+HtaskUpdateAnswerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskUpdateAnswerEvent.java
+END
+HtaskDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskDeleteEvent.java
+END
+HtaskCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/416/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskCreateEvent.java
+END
+HtaskUpdateEvent2.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskUpdateEvent2.java
+END
+HtaskSelectRightListEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskSelectRightListEvent.java
+END
+HtaskViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskViewEvent.java
+END
+HtaskSelectListEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskSelectListEvent.java
+END
+HtaskPutSessionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskPutSessionEvent.java
+END
+HtaskSelectOneEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskSelectOneEvent.java
+END
+HtaskUpdateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskUpdateEvent.java
+END
+HtaskInsertAnswerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskInsertAnswerEvent.java
+END
+HtaskSquareListViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskSquareListViewEvent.java
+END
+HtaskModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskModifyEvent.java
+END
+HtaskAppendAnswerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskAppendAnswerEvent.java
+END
+HtaskSquareList01ViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskSquareList01ViewEvent.java
+END
+HtaskManyCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskManyCreateEvent.java
+END
+HtaskSquareList02ViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskSquareList02ViewEvent.java
+END
+HtaskSquareList03ViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskSquareList03ViewEvent.java
+END
+HtaskSquareList04ViewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/htask/HtaskSquareList04ViewEvent.java
+END

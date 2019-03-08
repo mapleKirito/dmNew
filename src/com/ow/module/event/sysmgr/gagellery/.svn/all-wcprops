@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/gagellery
+END
+GagelleryDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/gagellery/GagelleryDeleteEvent.java
+END
+GagelleryCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/gagellery/GagelleryCreateEvent.java
+END
+GagelleryModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/gagellery/GagelleryModifyEvent.java
+END

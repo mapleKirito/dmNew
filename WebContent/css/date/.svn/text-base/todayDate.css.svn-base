@@ -1,0 +1,213 @@
+#beian {
+	text-align: center;
+	float: left;
+	width: 100%;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+#beian a {
+	color: gray
+}
+body {
+}
+#calendar_center {
+	width:370px;
+	height: 315px;
+	background:url(../../images-ce/date.jpg) no-repeat;
+	
+}
+#CalendarMain {
+	width: 300px;
+	border: 0px;
+	width:380px;
+	height: 230px
+}
+#title {
+	width: 380px;
+	height:50px;
+	line-height: 75px;
+	font-size: 18px;
+	font-weight: bold;
+	padding-top: 11px;
+	position: relative;
+	color: white;
+}
+.month{
+	display: block;
+	width: 46px;
+	height: 25px;
+	text-indent: -9999px;
+	margin-top: 18px;
+    float: left;
+	position: relative;
+    left: 16px;
+}
+.nextMonth{
+	
+	height: 25px;
+	text-indent: -9999px;
+	margin-top: 18px;
+	
+display: block;
+width: 20px;
+
+margin-right: -28px;
+}
+.selectBtn {
+	font-weight: normal;
+	font-size: 18px;	
+	cursor: pointer;
+	text-decoration: none;
+	
+}
+
+.selectYear {
+	float: left;
+	margin-left: 80px;
+	position: absolute;
+	margin-top: -7px;
+	color: white;
+}
+.selectMonth {
+	float: left;
+	margin-left: 160px;
+	position: absolute;
+	margin-top: -8px;
+}
+
+.nextMonth {
+	float: right;
+}
+.currentDay {
+	float: right;
+}
+#context {
+	width: 300px;
+	margin-left: 40px;
+}
+.week {
+	width: 300px;
+	height: 30px;
+}
+.week>h3 {
+	float: left;
+	color:#88361f;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	margin-top: 5px;
+	font-size: 20px;
+	font-family: "Microsoft Yahei Font";
+}
+.dayItem {
+	float: left;
+}
+.lastItem {
+	color: #d1c7b7 !important;
+}
+.item {
+	color: white;
+	float: left;
+	text-align: center;
+	cursor: pointer;
+	margin: 0;
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 13px;
+}
+.item:hover {
+	 	background: url(../../images/icon-spriter.png) 9px -650px no-repeat; 
+	
+}
+.currentR{
+		background: url(../../images/icon-spriter.png) 10px -600px no-repeat; 
+}
+.currentitem {
+	
+	width: 30px;
+	line-height: 30px;
+	float: left;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	color: #000000;
+	margin-left: 6px;
+	margin-top: 2px;
+	color: #88361f;
+	font-weight: bold;
+}
+.current {
+	background-color: white;
+	width: 25px;
+	line-height: 25px;
+	float: left;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	color: #fff;
+	margin-left:10px;
+}
+#foot {
+	width: 300px;
+	height: 35px;
+	border-top: 1px solid #ccc;
+	margin-top: -1px;
+	display: none;
+}
+#footNow {
+	float: left;
+	margin: 6px 0 0 5px;
+	color: #009ad6;
+	font-family: "Î¢ÈíÑÅºÚ";
+}
+#Container {
+	overflow: hidden;
+	float: left;
+}
+#center {
+	width: 380px;
+	overflow: hidden;
+}
+#centerMain {
+	width:900px;
+	margin-left: -100%;
+}
+#selectYearDiv {
+	float: left;
+}
+#selectYearDiv>div {
+	float: left;
+	text-align: center;
+	font-family: "Î¢ÈíÑÅºÚ";
+	font-size: 16px;
+	border: 1px solid #ccc;
+	margin-left: -1px;
+	margin-top: -1px;
+	cursor: pointer;
+	color: #909090;
+}
+.currentYearSd, .currentMontSd {
+	color: #ff4400 !important;
+}
+#selectMonthDiv {
+	float: left;
+}
+#selectMonthDiv>div {
+	color: white;
+	float: left;
+	text-align: center;
+	font-size: 12px;
+	border: 0px solid #ccc;
+	margin-left: -1px;
+	margin-top: -1px;
+	cursor: pointer;
+	font-family: "Microsoft Yahei"; 
+}
+#selectYearDiv>div:hover, #selectMonthDiv>div:hover {
+  background:url(../../images/icon-spriter.png) 22px -634px  no-repeat;
+
+}
+#centerCalendarMain {
+	float: left;
+}
+
+

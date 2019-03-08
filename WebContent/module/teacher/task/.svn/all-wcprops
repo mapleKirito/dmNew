@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/linktones/!svn/ver/492/bsms/history_pc_zhixiao/dm/WebContent/module/teacher/task
+END
+taskDelete.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linktones/!svn/ver/492/bsms/history_pc_zhixiao/dm/WebContent/module/teacher/task/taskDelete.jsp
+END
+taskCreate.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linktones/!svn/ver/414/bsms/history_pc_zhixiao/dm/WebContent/module/teacher/task/taskCreate.jsp
+END
+taskModify.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linktones/!svn/ver/414/bsms/history_pc_zhixiao/dm/WebContent/module/teacher/task/taskModify.jsp
+END
+taskList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/linktones/!svn/ver/414/bsms/history_pc_zhixiao/dm/WebContent/module/teacher/task/taskList.jsp
+END
+unfinshedTaskList.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/414/bsms/history_pc_zhixiao/dm/WebContent/module/teacher/task/unfinshedTaskList.jsp
+END

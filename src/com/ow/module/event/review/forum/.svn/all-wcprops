@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/linktones/!svn/ver/568/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/review/forum
+END
+ForumInsertEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/568/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/review/forum/ForumInsertEvent.java
+END
+SelectOneEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/568/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/review/forum/SelectOneEvent.java
+END
+ForumListEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/review/forum/ForumListEvent.java
+END
+ForumDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/review/forum/ForumDeleteEvent.java
+END
+ForumUpdateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/review/forum/ForumUpdateEvent.java
+END

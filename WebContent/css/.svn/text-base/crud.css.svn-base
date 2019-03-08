@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+.page-container {
+	width: 970px;
+}
+
+.table_6 {
+	border: 0px solid #ae9b84;
+}
+
+.table_9 .tatd {
+	border: 0px solid #ffffff;
+}
+
+.table_6 td {
+	padding: 8px;
+	font-size: 16px;
+	color: #333333;
+}
+
+.uploadDiv #enableUp,.uploadDiv #isUploadTip,.onShow,#menuBtn {
+	color: #777777;
+}
+
+.table_9 tr td {
+	border: 0px solid #ffffff;
+}
+.SkyButtonBlur { background-image:none;background: #C0964D;height: 35px;width: 60px;;color: white;font-size: 14px;font-family:"微软雅黑";}
+.SkyButtonFocus { background-image:none;background: #C0964D;height: 35px;width: 60px;color: white;font-size: 14px;font-family:"微软雅黑";}
+.SkyButtonBlur[type=submit]{background: #A83737;}
+.SkyButtonBlur[type=buttom]{background: #D1BC98;}

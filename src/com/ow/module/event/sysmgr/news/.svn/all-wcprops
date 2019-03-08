@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news
+END
+NewsDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/NewsDeleteEvent.java
+END
+NewsCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/NewsCreateEvent.java
+END
+NewsSeachEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/NewsSeachEvent.java
+END
+DBConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/DBConnection.java
+END
+NewsModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/NewsModifyEvent.java
+END
+NewsClassDeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/NewsClassDeleteEvent.java
+END
+NewsClassCreateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/NewsClassCreateEvent.java
+END
+NewsClassModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/NewsClassModifyEvent.java
+END
+SelectNewsNumEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/sysmgr/news/SelectNewsNumEvent.java
+END

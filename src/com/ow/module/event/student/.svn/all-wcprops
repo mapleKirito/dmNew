@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student
+END
+StudentModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentModifyEvent.java
+END
+StudentClassTaskEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentClassTaskEvent.java
+END
+StudentStatisticsEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentStatisticsEvent.java
+END
+DeleteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/DeleteEvent.java
+END
+StudentUnfinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentUnfinishedEvent.java
+END
+StudentQuestionClassEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentQuestionClassEvent.java
+END
+StudentTaskEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentTaskEvent.java
+END
+StudentMyUnfinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentMyUnfinishedEvent.java
+END
+StudentQuestionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentQuestionEvent.java
+END
+StudentAlertEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentAlertEvent.java
+END
+StudentClassQuestionkEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentClassQuestionkEvent.java
+END
+StudentResultEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentResultEvent.java
+END
+StudentMyUnfinishedInfoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentMyUnfinishedInfoEvent.java
+END
+StudentClassQuestionkModifyEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentClassQuestionkModifyEvent.java
+END
+StudentClassQuestionkAddEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/module/event/student/StudentClassQuestionkAddEvent.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql
+END
+SYS_Organization.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_Organization.xml
+END
+SYS_Dictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_Dictionary.xml
+END
+SYS_UserRoleMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_UserRoleMapper.xml
+END
+SYS_DictionaryType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_DictionaryType.xml
+END
+SYS_Permission.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_Permission.xml
+END
+SYS_User.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_User.xml
+END
+TRD_TelRecord.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/TRD_TelRecord.xml
+END
+SYS_RolePermissionMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_RolePermissionMapper.xml
+END
+SYS_Param.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_Param.xml
+END
+SYS_OperateLog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_OperateLog.xml
+END
+SYS_Role.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linktones/!svn/ver/355/bsms/history_pc_zhixiao/dm/src/com/ow/framework/data/dao/xml/mssql/SYS_Role.xml
+END
