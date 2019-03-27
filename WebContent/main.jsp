@@ -269,7 +269,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 					</a>
 						<dl class="sub-menu" style="display: none;">
 
-							<dd subindex="0" style="background:url(images-ce/one.jpg)  center  no-repeat;">
+							<!-- <dd subindex="0" style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
 									onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1');"
 									href="javascript:void(0);">七年级</a>
@@ -285,38 +285,455 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										课件
 									</a>
 								</dd>
-							</div></div>
-							<dd subindex="1"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
+							</div></div> -->
+							<dd subindex="0" style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1');"
-									href="javascript:void(0);">八年级</a>
+									onclick="resType(this,'G_Grade','七年级上','-901','paramMap.grGrade=311&pageSize=8&type=1');"
+									href="javascript:void(0);">七年级上</a>
+							</dd>
+							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap" 
+									    href="javascript:void(0);" 
+									    title="史前时期：中国境内人类的活动">
+										史前时期：中国境内人类的活动
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap" 
+									    href="javascript:void(0);" 
+									    title="夏商周时期：早期国家的产生与社会变革">
+										夏商周时期：早期国家的产生与社会变革
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap" 
+									    href="javascript:void(0);" 
+									    title="秦汉时期：统一多民族国家的建立和巩固">
+										秦汉时期：统一多民族国家的建立和巩固
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap" 
+									    href="javascript:void(0);" 
+									    title="三国两晋南北朝时期：政权分立与民族融合">
+										三国两晋南北朝时期：政权分立与民族融合
+									</a>
+								</dd>
+							</div></div>
+							<dd subindex="1" style="background:url(images-ce/one.jpg)  center  no-repeat;">
+								<a key="2"
+									onclick="resType(this,'G_Grade','七年级下','-901','paramMap.grGrade=311&pageSize=8&type=1');"
+									href="javascript:void(0);">七年级下</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 								<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-										素材
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap" 
+									    href="javascript:void(0);" 
+									    title="隋唐时期：繁荣与开放的时代">
+										隋唐时期：繁荣与开放的时代
 									</a>
 								</dd>
 								<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-										课件
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap" 
+									    href="javascript:void(0);" 
+									    title="辽宋夏金元时期：民族关系发展和社会变化">
+										辽宋夏金元时期：民族关系发展和社会变化
+									</a>
+								</dd>
+								<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap" 
+									    href="javascript:void(0);" 
+									    title="明清时期：统一多民族国家的巩固与发展">
+										明清时期：统一多民族国家的巩固与发展
 									</a>
 								</dd>
 							</div></div>
+							
 							<dd subindex="2"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1');"
-									href="javascript:void(0);">九年级</a>
+									onclick="resType(this,'G_Grade','八年级上','-901','paramMap.grGrade=312&pageSize=8&type=1');"
+									href="javascript:void(0);">八年级上</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-									<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-											素材
+								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="中国开始沦为半殖民地半封建社会">
+										中国开始沦为半殖民地半封建社会
+									</a>
+								</dd>
+								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="近代化的早期探索与民族危机的加剧">
+										近代化的早期探索与民族危机的加剧
+									</a>
+								</dd>
+								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="资产阶级民主革命与中华民国的建立">
+										资产阶级民主革命与中华民国的建立
+									</a>
+								</dd>
+								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="新民主主义革命的开始">
+										新民主主义革命的开始
+									</a>
+								</dd>
+								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="从国共合作到国共对峙">
+										从国共合作到国共对峙
+									</a>
+								</dd>
+								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="中华民族的抗日战争">
+										中华民族的抗日战争
+									</a>
+								</dd>
+								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="解放战争">
+										解放战争
+									</a>
+								</dd>
+								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="近代经济、社会生活与教育文化事业的发展">
+										近代经济、社会生活与教育文化事业的发展
+									</a>
+								</dd>
+							</div></div>
+							<dd subindex="3"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
+								<a key="2"
+									onclick="resType(this,'G_Grade','八年级下','-901','paramMap.grGrade=312&pageSize=8&type=1');"
+									href="javascript:void(0);">八年级下</a>
+							</dd>
+							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
+								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="中华人民共和国的成立和巩固">
+										中华人民共和国的成立和巩固
+									</a>
+								</dd>
+								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="社会主义制度的建立与社会主义建设的探索">
+										社会主义制度的建立与社会主义建设的探索
+									</a>
+								</dd>
+								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="中国特色社会主义道路">
+										中国特色社会主义道路
+									</a>
+								</dd>
+								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="民族团结与祖国统一">
+										民族团结与祖国统一
+									</a>
+								</dd>
+								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="国防建设与外交成就">
+										国防建设与外交成就
+									</a>
+								</dd>
+								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="科技文化与社会生活">
+										科技文化与社会生活
+									</a>
+								</dd>
+							</div></div>
+							<dd subindex="4"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
+								<a key="2"
+									onclick="resType(this,'G_Grade','九年级上','-901','paramMap.grGrade=313&pageSize=8&type=1');"
+									href="javascript:void(0);">九年级上</a>
+							</dd>
+							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
+									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="古代亚非文明">
+											古代亚非文明
 										</a>
 									</dd>
-									<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-											课件
+									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="古代欧洲文明">
+											古代欧洲文明
+										</a>
+									</dd>
+									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="封建时代的欧洲">
+											封建时代的欧洲
+										</a>
+									</dd>
+									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="封建时代的亚洲国家">
+											封建时代的亚洲国家
+										</a>
+									</dd>
+									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="步入近代">
+											步入近代
+										</a>
+									</dd>
+									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="资本主义制度的初步确立">
+											资本主义制度的初步确立
+										</a>
+									</dd>
+									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="工业革命和工人运动的兴起">
+											工业革命和工人运动的兴起
+										</a>
+									</dd>
+							</div></div>
+							<dd subindex="5"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
+								<a key="2"
+									onclick="resType(this,'G_Grade','九年级下','-901','paramMap.grGrade=313&pageSize=8&type=1');"
+									href="javascript:void(0);">九年级下</a>
+							</dd>
+							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
+									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="殖民地人民的反抗与资本主义制度的扩展">
+											殖民地人民的反抗与资本主义制度的扩展
+										</a>
+									</dd>
+									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="第二次工业革命和近代科学文化">
+											第二次工业革命和近代科学文化
+										</a>
+									</dd>
+									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="第一次世界大战和战后初期的世界">
+											第一次世界大战和战后初期的世界
+										</a>
+									</dd>
+									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="经济大危机和第二次世界大战">
+											经济大危机和第二次世界大战
+										</a>
+									</dd>
+									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="冷战和美苏对峙的世界">
+											冷战和美苏对峙的世界
+										</a>
+									</dd>
+									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="冷战结束后的世界">
+											冷战结束后的世界
 										</a>
 									</dd>
 							</div></div>
@@ -325,160 +742,387 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 					<li class="highgrade" roomtype="highgrade" style=" background:url(images-ce/gaozhong.jpg) no-repeat;"><a>
 					</a>
 						<dl class="sub-menu" style="display: none;">
-							<dd subindex="3"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
+							<dd subindex="0"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','必修一资源','-901','paramMap.grGrade=321&pageSize=8&type=1');"
-									href="javascript:void(0);">必修一</a>
+									onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1');"
+									href="javascript:void(0);">必修-中外历史纲要</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修一资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-										素材
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="早期中华文明">
+										早期中华文明
 									</a>
 								</dd>
-								<dd class="sub_res3  sub_res_sub" style="display:none;background:url(images-ce/in.jpg)  center  no-repeat;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修一资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-										课件
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="春秋战国时期的政治、社会及思想变动">
+										春秋战国时期的政治、社会及思想变动
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="秦汉大一统国家的建立与巩固">
+										秦汉大一统国家的建立与巩固
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="三国两晋南北朝的民族交融与隋唐大一统的发展">
+										三国两晋南北朝的民族交融与隋唐大一统的发展
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="辽宋夏金多民族证券并立与元朝的统一">
+										辽宋夏金多民族证券并立与元朝的统一
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="明至清中叶中国版图的奠定、封建专制的发展与社会变动">
+										明至清中叶中国版图的奠定、封建专制的发展与社会变动
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="晚清时期的内忧外患与救国图存">
+										晚清时期的内忧外患与救国图存
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="辛亥革命与中华民国的建立">
+										辛亥革命与中华民国的建立
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="中国共产党成立于新民主主义革命兴起">
+										中国共产党成立于新民主主义革命兴起
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="中华民族的抗日战争">
+										中华民族的抗日战争
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="人民解放战争">
+										人民解放战争
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="中华人民共和国的成立及向社会主义过渡">
+										中华人民共和国的成立及向社会主义过渡
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="社会主义建设道路的探索">
+										社会主义建设道路的探索
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="改革开放新时期与中国特色社会主义进入新时代">
+										改革开放新时期与中国特色社会主义进入新时代
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="古代文明的产生与发展">
+										古代文明的产生与发展
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="中古世界的多元面貌">
+										中古世界的多元面貌
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="全球联系的建立">
+										全球联系的建立
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="西方人文主义的发展与资本主义制度的确立">
+										西方人文主义的发展与资本主义制度的确立
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="改变世界面貌的工业革命">
+										改变世界面貌的工业革命
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="马克思主义的诞生">
+										马克思主义的诞生
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="世界殖民体系的形成与亚非拉民族独立运动">
+										世界殖民体系的形成与亚非拉民族独立运动
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="世界大战、十月革命与国际秩序的演变">
+										世界大战、十月革命与国际秩序的演变
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="冷战与20世纪下半期世界的新变化">
+										冷战与20世纪下半期世界的新变化
+									</a>
+								</dd>
+								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									style="color: black;
+										width: 150px;
+									    text-overflow: ellipsis;
+									    overflow: hidden;
+									    white-space: nowrap;" 
+									href="javascript:void(0);" 
+									title="当代世界的发展特点和主要趋势">
+										当代世界的发展特点和主要趋势
 									</a>
 								</dd>
 							</div></div>
-							<dd subindex="4"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
+							<dd subindex="1"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','必修二资源','-901','paramMap.grGrade=322&pageSize=8&type=1');"
-									href="javascript:void(0);">必修二</a>
+									onclick="resType(this,'G_Grade','选择性必修','-901','paramMap.grGrade=322&pageSize=8&type=1');"
+									href="javascript:void(0);">选择性必修</a>
 							</dd>
 							 <div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修二资源','-901','paramMap.grGrade=322&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-											素材
+									<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','国家制度与社会治理','-901','paramMap.grGrade=322&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="国家制度与社会治理">
+											国家制度与社会治理
 										</a>
 									</dd>
-									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修二资源','-901','paramMap.grGrade=322&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-											课件
+									<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','经济与社会生活','-901','paramMap.grGrade=322&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="经济与社会生活">
+											经济与社会生活
+										</a>
+									</dd>
+									<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','文化交流与传播','-901','paramMap.grGrade=322&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="文化交流与传播">
+											文化交流与传播
 										</a>
 									</dd>
 								</div></div>
-							<dd subindex="5"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
+							<dd subindex="2"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','必修三资源','-901','paramMap.grGrade=323&pageSize=8&type=1');"
-									href="javascript:void(0);">必修三</a>
+									onclick="resType(this,'G_Grade','选修资源','-901','paramMap.grGrade=323&pageSize=8&type=1');"
+									href="javascript:void(0);">选修</a>
 							</dd>
 								<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修三资源','-901','paramMap.grGrade=323&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-											素材
+									<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','史学入门','-901','paramMap.grGrade=323&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="史学入门">
+											史学入门
 										</a>
 									</dd>
-									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修三资源','-901','paramMap.grGrade=323&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-											课件
+									<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','史料研读','-901','paramMap.grGrade=323&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="史料研读">
+											史料研读
+										</a>
+									</dd>
+									<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','史料研读','-901','paramMap.grGrade=323&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										style="color: black;
+											width: 150px;
+										    text-overflow: ellipsis;
+										    overflow: hidden;
+										    white-space: nowrap;" 
+										href="javascript:void(0);" 
+										title="史料研读">
+											史料研读
 										</a>
 									</dd>
 								</div></div>
-							<dd subindex="6"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
-								<a key="2"
-									onclick="resType(this,'G_Grade','选修一资源','-901','paramMap.grGrade=331&pageSize=8&type=1');"
-									href="javascript:void(0);">选修一</a>
-							</dd>
-								<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-									<dd class="sub_res6  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修一资源','-901','paramMap.grGrade=331&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-											素材
-										</a>
-									</dd>
-									<dd class="sub_res6  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修一资源','-901','paramMap.grGrade=331&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-											课件
-										</a>
-									</dd>
-								</div></div>
-							<dd subindex="7"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
-								<a key="2"
-									onclick="resType(this,'G_Grade','选修二资源','-901','paramMap.grGrade=332&pageSize=8&type=1');"
-									href="javascript:void(0);">选修二</a>
-							</dd>
-							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-									<dd class="sub_res7  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修二资源','-901','paramMap.grGrade=332&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-											素材
-										</a>
-									</dd>
-									<dd class="sub_res7  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修二资源','-901','paramMap.grGrade=332&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-											课件
-										</a>
-									</dd>
-							</div></div>
-							<dd subindex="8"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
-								<a key="2"
-									onclick="resType(this,'G_Grade','选修三资源','-901','paramMap.grGrade=333&pageSize=8&type=1');"
-									href="javascript:void(0);">选修三</a>
-							</dd>
-							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-								<dd class="sub_res8  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修三资源','-901','paramMap.grGrade=333&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-										素材
-									</a>
-								</dd>
-								<dd class="sub_res8  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修三资源','-901','paramMap.grGrade=333&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-										课件
-									</a>
-								</dd>
-							</div>
-							<dd subindex="9"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
-								<a key="2"
-									onclick="resType(this,'G_Grade','选修四资源','-901','paramMap.grGrade=334&pageSize=8&type=1');"
-									href="javascript:void(0);">选修四</a>
-							</dd>
-							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-								<dd class="sub_res9  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修四资源','-901','paramMap.grGrade=334&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-										素材
-									</a>
-								</dd>
-								<dd class="sub_res9  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修四资源','-901','paramMap.grGrade=334&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-										课件
-									</a>
-								</dd>
-							</div>
-							<dd subindex="10"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
-								<a key="2"
-									onclick="resType(this,'G_Grade','选修五资源','-901','paramMap.grGrade=335&pageSize=8&type=1');"
-									href="javascript:void(0);">选修五</a>
-							</dd>
-							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-								<dd class="sub_res10  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修五资源','-901','paramMap.grGrade=335&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-										素材
-									</a>
-								</dd>
-								<dd class="sub_res10  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修五资源','-901','paramMap.grGrade=335&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-										课件
-									</a>
-								</dd>
-							</div></div>
-							
-							<dd subindex="11"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
-								<a key="2"
-									onclick="resType(this,'G_Grade','选修六资源','-901','paramMap.grGrade=336&pageSize=8&type=1');"
-									href="javascript:void(0);">选修六</a>
-							</dd>
-							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
-								<dd class="sub_res11  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修六资源','-901','paramMap.grGrade=336&pageSize=8&type=1&paramMap.resTypeName=sucai');" style="color: black;" href="javascript:void(0);" title="素材">
-										素材
-									</a>
-								</dd>
-								<dd class="sub_res11  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','选修六资源','-901','paramMap.grGrade=336&pageSize=8&type=1&paramMap.resTypeName=kejian');" style="color: black;" href="javascript:void(0);" title="课件">
-										课件
-									</a>
-								</dd>
-							</div></div>
 						</dl>
 					</li>
 				</ul>
