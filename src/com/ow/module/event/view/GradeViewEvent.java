@@ -70,11 +70,12 @@ public class GradeViewEvent implements EventListener{
 			resultData.setPaginatedData(paginatedData);
 			String grGrade = eventExecutor.getBaseAction().getParamMap().get("grGrade") == null ? "" : (String)eventExecutor.getBaseAction().getParamMap().get("grGrade") ;
 			String grJieIDSelf = eventExecutor.getBaseAction().getParamMap().get("grJieIDSelf") == null ? "" : (String)eventExecutor.getBaseAction().getParamMap().get("grJieIDSelf") ;
-			if(grJieIDSelf.equals("")){
+			/*if(grJieIDSelf.equals("")){
 				eventExecutor.getBaseAction().setBussessNavigation(ResourceUtil.returnGradePath(grGrade, "", "", ""));
 			}else{
 				eventExecutor.getBaseAction().setBussessNavigation(ResourceUtil.returnGradePath(grJieIDSelf, "", "", ""));
-			}
+			}*/
+			eventExecutor.getBaseAction().setBussessNavigation(ResourceUtil.returnGradePath(grGrade, "", "", ""));
 			return resultData;
 		}
 		catch (Exception e)

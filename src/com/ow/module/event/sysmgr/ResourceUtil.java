@@ -97,30 +97,18 @@ public class ResourceUtil {
 		String path = grGrade;
 		String sunpath = path.substring(0,3);
 		String gName = "" ;
-		if("311".equals(sunpath)) {
+		if("700".equals(sunpath)) {
 			gName = " 按适用学段、年级浏览 &gt; 初中 &gt; 七年级" ;
-		}else if("312".equals(sunpath)) {
+		}else if("800".equals(sunpath)) {
 			gName = " 按适用学段、年级浏览 &gt; 初中 &gt; 八年级" ;
-		}else if("321".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 必修一" ;
-		}else if("322".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 必修二" ;
-		}else if("323".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 必修三" ;
-		}else if("327".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 选修一" ;
-		}else if("325".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 选修二" ;
-		}else if("326".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 选修三" ;
-		}else if("326".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 选修四" ;
-		}else if("326".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 选修五" ;
-		}else if("326".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 选修六" ;
-		}else if("324".equals(sunpath)) {
-			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 高中竞赛" ;
+		}else if("900".equals(sunpath)) {
+			gName = " 按适用学段、年级浏览 &gt; 初中 &gt; 九年级" ;
+		}else if("100".equals(sunpath)) {
+			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 必修" ;
+		}else if("200".equals(sunpath)) {
+			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 选择性必修" ;
+		}else if("300".equals(sunpath)) {
+			gName = " 按适用学段、年级浏览 &gt; 高中 &gt; 选修" ;
 		}
 		
 		if(!"".equals(gName)) {

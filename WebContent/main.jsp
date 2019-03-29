@@ -288,12 +288,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 							</div></div> -->
 							<dd subindex="0" style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','七年级上','-901','paramMap.grGrade=311&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','七年级上','-901','paramMap.grGrade=700&pageSize=8&type=1');"
 									href="javascript:void(0);">七年级上</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=700&pageSize=8&type=1&paramMap.grJieIDSelf=1');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -305,7 +305,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=700&pageSize=8&type=1&paramMap.grJieIDSelf=2');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -317,7 +317,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=700&pageSize=8&type=1&paramMap.grJieIDSelf=3');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -329,7 +329,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=700&pageSize=8&type=1&paramMap.grJieIDSelf=4');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -343,12 +343,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 							</div></div>
 							<dd subindex="1" style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','七年级下','-901','paramMap.grGrade=311&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','七年级下','-901','paramMap.grGrade=700&pageSize=8&type=1');"
 									href="javascript:void(0);">七年级下</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 								<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=700&pageSize=8&type=1&paramMap.grJieIDSelf=5');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -360,7 +360,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=700&pageSize=8&type=1&paramMap.grJieIDSelf=6');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -372,7 +372,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=311&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','七年级资源','-901','paramMap.grGrade=700&pageSize=8&type=1&paramMap.grJieIDSelf=7');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -387,12 +387,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 							
 							<dd subindex="2"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','八年级上','-901','paramMap.grGrade=312&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','八年级上','-901','paramMap.grGrade=800&pageSize=8&type=1');"
 									href="javascript:void(0);">八年级上</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=1');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -404,7 +404,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=2');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -416,7 +416,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=3');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -428,7 +428,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=4');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -440,7 +440,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=5');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -452,7 +452,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=6');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -464,7 +464,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=7');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -476,7 +476,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=8');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -490,12 +490,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 							</div></div>
 							<dd subindex="3"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','八年级下','-901','paramMap.grGrade=312&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','八年级下','-901','paramMap.grGrade=800&pageSize=8&type=1');"
 									href="javascript:void(0);">八年级下</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=9');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -507,7 +507,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=10');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -519,7 +519,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=11');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -531,7 +531,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=12');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -543,7 +543,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=13');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -555,7 +555,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res3  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=312&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','八年级资源','-901','paramMap.grGrade=800&pageSize=8&type=1&paramMap.grJieIDSelf=14');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -569,12 +569,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 							</div></div>
 							<dd subindex="4"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','九年级上','-901','paramMap.grGrade=313&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','九年级上','-901','paramMap.grGrade=900&pageSize=8&type=1');"
 									href="javascript:void(0);">九年级上</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=1');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -586,7 +586,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=2');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -598,7 +598,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=3');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -610,7 +610,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=4');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -622,7 +622,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=5');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -634,7 +634,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=6');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -646,7 +646,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res4  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=7');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -660,12 +660,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 							</div></div>
 							<dd subindex="5"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','九年级下','-901','paramMap.grGrade=313&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','九年级下','-901','paramMap.grGrade=900&pageSize=8&type=1');"
 									href="javascript:void(0);">九年级下</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=8');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -677,7 +677,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=9');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -689,7 +689,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=10');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -701,7 +701,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=11');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -713,7 +713,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=12');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -725,7 +725,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res5  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=313&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','九年级资源','-901','paramMap.grGrade=900&pageSize=8&type=1&paramMap.grJieIDSelf=13');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -744,12 +744,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 						<dl class="sub-menu" style="display: none;">
 							<dd subindex="0"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1');"
 									href="javascript:void(0);">必修-中外历史纲要</a>
 							</dd>
 							<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=1');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -761,7 +761,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=2');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -773,7 +773,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=3');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -785,7 +785,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=4');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -797,7 +797,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=5');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -809,7 +809,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=6');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -821,7 +821,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=7');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -833,7 +833,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=8');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -845,7 +845,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=9');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -853,11 +853,11 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									    white-space: nowrap;" 
 									href="javascript:void(0);" 
 									title="中国共产党成立于新民主主义革命兴起">
-										中国共产党成立于新民主主义革命兴起
+										中国共产党成立与新民主主义革命兴起
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=10');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -869,7 +869,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=11');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -881,7 +881,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=12');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -893,7 +893,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=13');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -905,7 +905,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=14');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -917,7 +917,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=15');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -929,7 +929,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=16');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -941,7 +941,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=17');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -953,7 +953,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=18');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -965,7 +965,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=19');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -977,7 +977,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=20');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -989,7 +989,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=21');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -1001,7 +1001,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=22');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -1013,7 +1013,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=23');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -1025,7 +1025,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 									</a>
 								</dd>
 								<dd class="sub_res0  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display: none;">
-									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=321&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+									<a path=",0,1,160,163," onclick="resType(this,'G_Grade','必修资源','-901','paramMap.grGrade=100&pageSize=8&type=1&paramMap.grJieIDSelf=24');" 
 									style="color: black;
 										width: 150px;
 									    text-overflow: ellipsis;
@@ -1039,12 +1039,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 							</div></div>
 							<dd subindex="1"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','选择性必修','-901','paramMap.grGrade=322&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','选择性必修','-901','paramMap.grGrade=200&pageSize=8&type=1');"
 									href="javascript:void(0);">选择性必修</a>
 							</dd>
 							 <div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 									<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','国家制度与社会治理','-901','paramMap.grGrade=322&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','国家制度与社会治理','-901','paramMap.grGrade=200&pageSize=8&type=1&paramMap.grJieIDSelf=1');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -1056,7 +1056,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','经济与社会生活','-901','paramMap.grGrade=322&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','经济与社会生活','-901','paramMap.grGrade=200&pageSize=8&type=1&paramMap.grJieIDSelf=2');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -1068,7 +1068,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res1  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','文化交流与传播','-901','paramMap.grGrade=322&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','文化交流与传播','-901','paramMap.grGrade=200&pageSize=8&type=1&paramMap.grJieIDSelf=3');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -1082,12 +1082,12 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 								</div></div>
 							<dd subindex="2"  style="background:url(images-ce/one.jpg)  center  no-repeat;">
 								<a key="2"
-									onclick="resType(this,'G_Grade','选修资源','-901','paramMap.grGrade=323&pageSize=8&type=1');"
+									onclick="resType(this,'G_Grade','选修资源','-901','paramMap.grGrade=300&pageSize=8&type=1');"
 									href="javascript:void(0);">选修</a>
 							</dd>
 								<div class="subdiv" style="display:none;width: 166px;background: #EAE3D3;margin-left: 7px;margin-top: -6px;margin-bottom: 10px;border:1px solid #87571E;"><div style="border:3px solid #ffffff;border-top:none;">
 									<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','史学入门','-901','paramMap.grGrade=323&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','史学入门','-901','paramMap.grGrade=300&pageSize=8&type=1&paramMap.grJieIDSelf=1');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
@@ -1099,19 +1099,7 @@ background: url(<%=request.getContextPath()%>/images-ce/loginbg.jpg) center no-r
 										</a>
 									</dd>
 									<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','史料研读','-901','paramMap.grGrade=323&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
-										style="color: black;
-											width: 150px;
-										    text-overflow: ellipsis;
-										    overflow: hidden;
-										    white-space: nowrap;" 
-										href="javascript:void(0);" 
-										title="史料研读">
-											史料研读
-										</a>
-									</dd>
-									<dd class="sub_res2  sub_res_sub" style="background:url(images-ce/in.jpg)  center  no-repeat;color:black;display:none;color:black;">
-										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','史料研读','-901','paramMap.grGrade=323&pageSize=8&type=1&paramMap.resTypeName=sucai');" 
+										<a path=",0,1,160,163," onclick="resType(this,'G_Grade','史料研读','-901','paramMap.grGrade=300&pageSize=8&type=1&paramMap.grJieIDSelf=2');" 
 										style="color: black;
 											width: 150px;
 										    text-overflow: ellipsis;
