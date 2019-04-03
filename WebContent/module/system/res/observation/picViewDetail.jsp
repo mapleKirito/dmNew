@@ -291,7 +291,7 @@ function isFieldNull(fieldName){
                       
                         <div class="res-detail-container">
                             <a href="javascript:void(0);" onclick="BigImg('or')">
-                           	 <img onload="if(this.width >= ${session.imgWidth}){this.height=(this.height/this.width)*${session.imgWidth};this.width = ${session.imgWidth};}if(this.height >= ${session.imgHeight}){this.width=(this.width/this.height)*${session.imgHeight};this.height = ${session.imgHeight};}" src="${initMap.picDetail.orInThum}"  id="resView" upload='${initMap.picDetail.orUpload}'  _index="0"/>
+                           	 <img onload="if(this.width >= ${session.imgWidth}){this.height=(this.height/this.width)*${session.imgWidth};this.width = ${session.imgWidth};}if(this.height >= ${session.imgHeight}){this.width=(this.width/this.height)*${session.imgHeight};this.height = ${session.imgHeight};}" src="${session.IP}/CacheServer/GetPicInfo?src=${initMap.picDetail.orInThum}"  id="resView" upload='${initMap.picDetail.orUpload}'  _index="0"/>
                             </a>
                         </div>
                     </div>
